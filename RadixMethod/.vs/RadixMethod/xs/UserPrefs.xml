@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A4B33197-66CC-411B-A3E5-E33169AD0C55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RadixMethod/Program.cs">
+    <Files>
+      <File FileName="RadixMethod/Program.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RadixMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

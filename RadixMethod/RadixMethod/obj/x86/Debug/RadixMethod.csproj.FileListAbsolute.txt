@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/RadixMethod/RadixMethod/bin/Debug/RadixMethod.exe
+/Users/AlanGarcia/Projects/RadixMethod/RadixMethod/bin/Debug/RadixMethod.pdb
+/Users/AlanGarcia/Projects/RadixMethod/RadixMethod/obj/x86/Debug/RadixMethod.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/RadixMethod/RadixMethod/obj/x86/Debug/RadixMethod.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/RadixMethod/RadixMethod/obj/x86/Debug/RadixMethod.exe
+/Users/AlanGarcia/Projects/RadixMethod/RadixMethod/obj/x86/Debug/RadixMethod.pdb
